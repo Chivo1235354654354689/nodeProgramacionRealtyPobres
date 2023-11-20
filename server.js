@@ -53,3 +53,4 @@ app.get('/obtener', (req, res) => {
   str += "</div>";
   res.send(str);
 });
+

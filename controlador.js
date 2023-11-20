@@ -28,4 +28,3 @@ function obtener() {
 }
 
 module.exports = { nuevo, obtener };
-
